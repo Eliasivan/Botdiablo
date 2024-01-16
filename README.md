@@ -1,7 +1,7 @@
 ## 𝙳𝙸𝙰𝙱𝙻𝙾𝙱𝙾𝚃-𝙼𝙳 ✨
 
 <p align="center">
-<img src="https://telegra.ph/file/1de45831f62519a4dac60.jpg" alt="CuriosityBot-MD" width="900"/>
+<img src="https://telegra.ph/file/c18e300a5924865cb6e2c.jpg" alt="CuriosityBot-MD" width="900"/>
 </p>
 
 <a href="https://github.com/azamijs/CuriosityBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
