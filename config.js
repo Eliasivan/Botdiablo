@@ -22,7 +22,7 @@ global.prems = []
 
 global.packname = '© 𝙳𝙸𝙰𝙱𝙻𝙾𝙱𝙾𝚃'
 global.author = 'Created By 𝘌𝘯𝘻𝘰'
-global.wm = '© 𝙳𝚒𝚊𝚋𝚕𝚘𝙱𝚘𝚝-𝙼𝙳
+global.wm = '© 𝙳𝚒𝚊𝚋𝚕𝚘𝙱𝚘𝚝-𝙼𝙳'
 global.wm2 = '𝘋𝘪𝘢𝘣𝘭𝘰 : 𝘉𝘰𝘵'
 global.azami = 'Enzo'
 global.cb = '𝙳𝙸𝙰𝙱𝙻𝙾𝙱𝙾𝚃-𝙼𝙳'
