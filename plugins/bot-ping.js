@@ -20,17 +20,17 @@ let chats = Object.entries(conn.chats).filter(([id, data]) => id && data.isChats
 let groups = Object.entries(conn.chats).filter(([jid, chat]) => jid.endsWith('@g.us') && chat.isChats && !chat.metadata?.read_only && !chat.metadata?.announce).map(v => v[0])
 
 
-let texto = `*🚀 Velocidad*
+let texto = `*🚀 𝑽𝒆𝒍𝒐𝒄𝒊𝒅𝒂𝒅*
 • ${latensi.toFixed(4)}
 
-*⏰ Actividad*
+*⏰ 𝑨𝒄𝒕𝒊𝒗𝒊𝒅𝒂𝒅*
 • ${muptime}
 
-*💌 Chats*
+*💌 𝑪𝒉𝒂𝒕𝒔*
 • ${chats.length} *Chats privados*
 • ${groups.length} *Grupos*
 
-*💻 Servidor*
+*💻 𝑺𝒆𝒓𝒗𝒊𝒅𝒐𝒓*
 • *Ram:* ${format(totalmem() - freemem())} / ${format(totalmem())}`.trim()
 
 conn.sendMessage(m.chat, { text: texto, contextInfo: { externalAdReply: { title: '', body: '👹𝗗𝗜𝗔𝗕𝗟𝗢 - 𝗕𝗢𝗧 - 𝗠𝗗👹', thumbnailUrl: 'https://telegra.ph/file/7f7e89f57b728e7cedbc8.jpg', sourceUrl: '', mediaType: 1, renderLargerThumbnail: true }}})
