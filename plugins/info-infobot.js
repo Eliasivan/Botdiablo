@@ -23,7 +23,7 @@ let info = `
 *📑 INFO DIABLO BOT MD*
 
 👑 *CREADOR*
- *Jostin*
+ *Enzito*
 --------------------------
 🥏 *CONTACTO* 
  *${ig}*
