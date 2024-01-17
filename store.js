@@ -29,7 +29,7 @@ global.sityImg = [img, img1, img2, img3, img4, img5, img6]
 
 //Enlaces
 global.yt = 'https://youtube.com/@Enzito-19?si=jwHC-MOm1KQTonA1'
-global.ig = 'https://instagram.com/azami_dev'
+global.ig = 'https://www.instagram.com/enzito_oficial._?igsh=MTZya2FvcngycmhwNA=='
 global.md = 'https://github.com/Enzito-Vase'
 global.paypal = 'https://www.paypal.me/EnzitoOFC'
 global.git = 'https://github.com/AzamiJs'
