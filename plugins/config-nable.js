@@ -268,7 +268,7 @@ throw false
 global.opts['swonly'] = isEnable
 break
 default:
-if (!/[01]/.test(command)) return await conn.reply(m.chat, `*🧃 OPCIONES PARA GRUPO*
+if (!/[01]/.test(command)) return await conn.reply(m.chat, `*☢️ OPCIONES PARA GRUPO☢️*
 
 _${usedPrefix + command} *𝘸𝘦𝘭𝘤𝘰𝘮𝘦*_
 _${usedPrefix + command} *𝘢𝘯𝘵𝘪𝘭𝘪𝘯𝘬*_
