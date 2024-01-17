@@ -21,7 +21,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
 let sn = createHash('md5').update(m.sender).digest('hex').slice(0, 6)	
 m.react('📩') 
 let regbot = `
-🗃️ *R E G I S T R A D O* 🗃️
+🗃️ *R̆̈ Ĕ̈ Ğ̈ Ĭ̈ S̆̈ T̆̈ R̆̈ Ă̈ D̆̈ Ŏ̈* 🗃️
 🪁 *Nombre:* ${name}
 🎨 *Edad* : ${age} años
 🥏 *Numero de serie*:
