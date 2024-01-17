@@ -21,8 +21,8 @@ let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
 conn.relayMessage(m.chat, msg.message, {})
 }
 
-//let str = '*🍧 CuriosityBot-MD*'
-//await conn.sendUrl(m.chat, str, m, { externalAdReply: { mediaType: 1, renderLargerThumbnail: true, thumbnail: imagen1, thumbnailUrl: imagen1, title: '🍓 Azami', }})
+//let str = '*👹 DiabloBot-MD 👹*'
+//await conn.sendUrl(m.chat, str, m, { externalAdReply: { mediaType: 1, renderLargerThumbnail: true, thumbnail: imagen1, thumbnailUrl: imagen1, title: '🍓 Ĕ̈n̆̈z̆̈ŏ̈, }})
  
 handler.command = /^((a|a)a)$/i
 handler.owner = true
