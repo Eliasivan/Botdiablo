@@ -30,7 +30,7 @@ global.sityImg = [img, img1, img2, img3, img4, img5, img6]
 //Enlaces
 global.yt = 'https://www.youtube.com/@Azami_YT'
 global.ig = 'https://instagram.com/azami_dev'
-global.md = 'https://github.com/AzamiJs/CuriosityBot-MD'
+global.md = 'https://github.com/Enzito-Vase'
 global.paypal = 'https://www.paypal.me/EnzitoOFC'
 global.git = 'https://github.com/AzamiJs'
 global.nn = 'https://chat.whatsapp.com/G9MpDVmJtbiIpItEZpg70s' //Grupo ofc
