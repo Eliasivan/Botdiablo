@@ -270,33 +270,33 @@ break
 default:
 if (!/[01]/.test(command)) return await conn.reply(m.chat, `*🧃 OPCIONES PARA GRUPO*
 
-_${usedPrefix + command} *welcome*_
-_${usedPrefix + command} *antilink*_
-_${usedPrefix + command} *antilink2*_
-_${usedPrefix + command} *antifake*_
-_${usedPrefix + command} *antitraba*_
-_${usedPrefix + command} *antitoxic*_
-_${usedPrefix + command} *autolevelup*_
-_${usedPrefix + command} *nsfw*_
-_${usedPrefix + command} *simi*_
-_${usedPrefix + command} *detect*_
-_${usedPrefix + command} *modoadmin*_
-_${usedPrefix + command} *antisticker*_
-_${usedPrefix + command} *autosticker*_
-_${usedPrefix + command} *antibule*_
+_${usedPrefix + command} *𝘸𝘦𝘭𝘤𝘰𝘮𝘦*_
+_${usedPrefix + command} *𝘢𝘯𝘵𝘪𝘭𝘪𝘯𝘬*_
+_${usedPrefix + command} *𝘢𝘯𝘵𝘪𝘭𝘪𝘯𝘬2*_
+_${usedPrefix + command} *𝘢𝘯𝘵𝘪𝘧𝘢𝘬𝘦*_
+_${usedPrefix + command} *𝘢𝘯𝘵𝘪𝘵𝘳𝘢𝘣𝘢*_
+_${usedPrefix + command} *𝘢𝘯𝘵𝘪𝘵𝘰𝘹𝘪𝘤*_
+_${usedPrefix + command} *𝘢𝘶𝘵𝘰𝘭𝘦𝘷𝘦𝘭𝘶𝘱*_
+_${usedPrefix + command} *𝘯𝘴𝘧𝘸*_
+_${usedPrefix + command} *𝘴𝘪𝘮𝘪*_
+_${usedPrefix + command} *𝘥𝘦𝘵𝘦𝘤𝘵*_
+_${usedPrefix + command} *𝘮𝘰𝘥𝘰𝘢𝘥𝘮𝘪𝘯*_
+_${usedPrefix + command} *𝘢𝘯𝘵𝘪𝘴𝘵𝘪𝘤𝘬𝘦𝘳*_
+_${usedPrefix + command} *𝘢𝘶𝘵𝘰𝘴𝘵𝘪𝘤𝘬𝘦𝘳*_
+_${usedPrefix + command} *𝘢𝘯𝘵𝘪𝘣𝘶𝘭𝘦*_
 
 ▂ ▃ ▄ ▅ ▆ ▇ █ █ ▇ ▆ ▅ ▄ ▃ ▂ 
 
-*🍧 OPCIONES DE PROPIETARIO*
+*🍧 𝘖𝘗𝘊𝘐𝘖𝘕𝘌𝘚 𝘋𝘌 𝘗𝘙𝘖𝘗𝘐𝘌𝘛𝘈𝘙𝘐𝘖*
 
 ▂ ▃ ▄ ▅ ▆ ▇ █ █ ▇ ▆ ▅ ▄ ▃ ▂ 
 
-_${usedPrefix + command} *restrict*_
-_${usedPrefix + command} *public*_
-_${usedPrefix + command} *pconly*_
-_${usedPrefix + command} *gconly*_
-_${usedPrefix + command} *autoread*_
-_${usedPrefix + command} *modejadibot*_`, m, fake, )
+_${usedPrefix + command} *𝘳𝘦𝘴𝘵𝘳𝘪𝘤𝘵*_
+_${usedPrefix + command} *𝘱𝘶𝘣𝘭𝘪𝘤*_
+_${usedPrefix + command} *𝘱𝘤𝘰𝘯𝘭𝘺*_
+_${usedPrefix + command} *𝘨𝘤𝘰𝘯𝘭𝘺*_
+_${usedPrefix + command} *𝘢𝘶𝘵𝘰𝘳𝘦𝘢𝘥*_
+_${usedPrefix + command} *𝘮𝘰𝘥𝘦𝘫𝘢𝘥𝘪𝘣𝘰𝘵*_`, m, fake, )
 throw false
 }
 conn.reply(m.chat, `*${isEnable ? '❕' : '❗'} La función ${type} se a ${isEnable ? 'activado' : 'desactivado'} en ${isAll ? 'bot' : isUser ? '' : 'este chat.'}*`, m, fake, )
