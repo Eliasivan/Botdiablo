@@ -6,7 +6,7 @@ let texto = `
 ╰┬────────────┈⊷
 ┌┤ *REQUISITOS PARA LAS INSTALACION*
 ┌┤➳ _Dudas: wa.me/5491168758497_
-┌┤➳ _Tutoríal: https://youtu.be/qRb9ElGT8mM_
+┌┤➳ _Tutoríal: https://youtube.com/@Enzito-19?si=zwo0GR3pT92e5D4H_
 ┌┤➳ _1 GB de almacenamiento_
 ┌┤➳ _Termux: https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file_
 ┌┤➳ _GitHub: https://github.com/Enzito-Vase/DiabloBot-MD-_
