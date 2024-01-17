@@ -33,7 +33,7 @@ let texto = `*🚀 Velocidad*
 *💻 Servidor*
 • *Ram:* ${format(totalmem() - freemem())} / ${format(totalmem())}`.trim()
 
-conn.sendMessage(m.chat, { text: texto, contextInfo: { externalAdReply: { title: '', body: 'CURIOSITY - BOT - MD', thumbnailUrl: 'https://telegra.ph/file/7f7e89f57b728e7cedbc8.jpg', sourceUrl: '', mediaType: 1, renderLargerThumbnail: true }}})
+conn.sendMessage(m.chat, { text: texto, contextInfo: { externalAdReply: { title: '', body: '👹𝗗𝗜𝗔𝗕𝗟𝗢 - 𝗕𝗢𝗧 - 𝗠𝗗👹, thumbnailUrl: 'https://telegra.ph/file/7f7e89f57b728e7cedbc8.jpg', sourceUrl: '', mediaType: 1, renderLargerThumbnail: true }}})
 
 }
 handler.help = ['ping']
