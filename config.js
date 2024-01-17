@@ -8,6 +8,8 @@ global.owner = [
                                
  ['5492215834412', 'editor god:], ['525620110578', 'gandre'],
 
+          ]
+
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
 global.botNumberCode = '' //Ejemplo: +5491168758497
