@@ -23,7 +23,7 @@ let texto = `
   │> npm start 
   ╰────────────┈⊷` 
 let aa = { quoted: m, userJid: conn.user.jid }
-let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: `${texto}`.trim(), contextInfo: { externalAdReply: { title: 'Azami ©', body: null, thumbnail: imagen2, sourceUrl: 'https://github.com/Enzito-Vase/DiabloBot-MD-' }, mentionedJid: [m.sender] }}}, aa)
+let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: `${texto}`.trim(), contextInfo: { externalAdReply: { title: 'Enzo ©', body: null, thumbnail: imagen2, sourceUrl: 'https://github.com/Enzito-Vase/DiabloBot-MD-' }, mentionedJid: [m.sender] }}}, aa)
 conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id, mentions: [m.sender] })  
 }
 handler.tags = ['main']
