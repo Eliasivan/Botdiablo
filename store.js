@@ -28,7 +28,7 @@ var img2 = 'https://telegra.ph/file/b9b4821c3f78b7ce6d3aa.jpg'
 global.sityImg = [img, img1, img2, img3, img4, img5, img6]
 
 //Enlaces
-global.yt = 'https://www.youtube.com/@Azami_YT'
+global.yt = 'https://youtube.com/@Enzito-19?si=jwHC-MOm1KQTonA1'
 global.ig = 'https://instagram.com/azami_dev'
 global.md = 'https://github.com/Enzito-Vase'
 global.paypal = 'https://www.paypal.me/EnzitoOFC'
