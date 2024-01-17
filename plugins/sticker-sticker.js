@@ -17,7 +17,7 @@ if (/webp|image|video/g.test(mime)) {
 let img = await q.download?.()
 let out
 stiker = await sticker(img, false, global.packname, global.author)
-await conn.reply(m.chat, `_𝑪𝒂𝒍𝒎𝒂 𝒄𝒓𝒂𝒄𝒌 𝒆𝒔𝒕𝒐𝒚 𝒉𝒂𝒄𝒊𝒆𝒏𝒅𝒐 𝒕𝒖 𝒔𝒕𝒊𝒄𝒌𝒆𝒓 👏_\n\n_*Recuerda los stickersgif son de 6 segundos*_\n\n_*by DiabloBot-MD-*_`, m)
+await conn.reply(m.chat, `_𝑪𝒂𝒍𝒎𝒂 𝒄𝒓𝒂𝒄𝒌 𝒆𝒔𝒕𝒐𝒚 𝒉𝒂𝒄𝒊𝒆𝒏𝒅𝒐 𝒕𝒖 𝒔𝒕𝒊𝒄𝒌𝒆𝒓 👏_\n\n_*Recuerda los stickersgif son de 6 segundos*_\n\n_*by DiabloBot-MD*_`, m)
   
 if (!stiker) {
 if (/webp/g.test(mime)) out = await webp2png(img)
