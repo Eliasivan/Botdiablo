@@ -8,7 +8,7 @@ let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
   degreesLatitude: 0,
   degreesLongitude: 0,
   name: 'Github del bot',
-  address: 'By Azami',
+  address: 'By Enzito',
   url: md,
   isLive: true,
   accuracyInMeters: 0,
