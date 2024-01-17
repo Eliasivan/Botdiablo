@@ -19,7 +19,7 @@
 ### Ejemplo 
 En caso de duda, antes de instalar CuriosityBot-MD, pruebe el bot aquí
 
-<a href="https://chat.whatsapp.com/JapxRY8PsrsDssWdj9Finx">
+<a href="https://chat.whatsapp.com/CW7xoOjwIVt4u1FX5hNWrG">
   <img src="https://img.shields.io/badge/CuriosityBot-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
