@@ -5,7 +5,7 @@ let user = global.db.data.users[m.sender]
 let sn = createHash('md5').update(m.sender).digest('hex')
 if (args[0] !== sn) throw `*⚠️ VERIFIQUE QUE SU NÚMERO DE SÉRIE SEA CORRECTO*`
 user.registered = false
-m.reply(`*📇 USTED YA NO ESTÁ REGISTRADO*`)
+m.reply(`*📇 ＵＳＴＥＤ ＹＡ ＮＯ ＥＳＴＡ ＲＥＧＩＳＴＲＡＤＯ*`)
 }
 handler.help = ['', 'ister'].map(v => 'unreg' + v + ' <numero de serie>')
 handler.tags = ['rg']
