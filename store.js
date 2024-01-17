@@ -34,11 +34,11 @@ global.md = 'https://github.com/Enzito-Vase'
 global.paypal = 'https://www.paypal.me/EnzitoOFC'
 global.git = 'https://github.com/AzamiJs'
 global.nn = 'https://chat.whatsapp.com/JapxRY8PsrsDssWdj9Finx'
-global.nnn = 'https://chat.whatsapp.com/J1R402WH1N0Hdl3S0NDEYu' //Curiosity global
-global.nnnn = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //colaboración multi bots
-global.nnnnn = 'https://chat.whatsapp.com/E9qJfvlLjENKAxnhII9rao' //Colaboración CuriosityBot - NovaBot 
-global.nnnnnn = 'https://chat.whatsapp.com/KlRcEfl8snBEEOA0JXzw5A' //enlace curiosity
-global.channel = 'https://whatsapp.com/channel/0029VaJL0xn0LKZL7FtiRs1e' //canal ofc
+global.nnn = 'https://chat.whatsapp.com/JapxRY8PsrsDssWdj9Finx' //Curiosity global
+global.nnnn = 'https://chat.whatsapp.com/JapxRY8PsrsDssWdj9Finx' //colaboración multi bots
+global.nnnnn = 'https://chat.whatsapp.com/JapxRY8PsrsDssWdj9Finx' //Colaboración CuriosityBot - NovaBot 
+global.nnnnnn = 'https://chat.whatsapp.com/JapxRY8PsrsDssWdj9Finx' //enlace curiosity
+global.channel = 'https://chat.whatsapp.com/JapxRY8PsrsDssWdj9Finx' //canal ofc
 global.email = 'thecuriositybot@gmail.com'
 global.linkSity = [yt, ig, md, paypal, git, channel]
 
