@@ -24,19 +24,19 @@ let tags = {
 const defaultMenu = {
 before: `┍──━〔 𝚄 𝚂 𝚄 𝙰 𝚁 𝙸 𝙾 〕•━──┑
 ┃╭──────────────
-┃┃ *Nombre:* %name
-┃┃ *Limite:* %diamond
-┃┃ *Nivel:* %level
-┃┃ *Rango:* %role
-┃┃ *Exp:* %exp
+┃🍭 *Nombre:* %name
+┃🍭 *Limite:* %diamond
+┃🍭 *Nivel:* %level
+┃🍭 *Rango:* %role
+┃🍭 *Exp:* %exp
 ┃╰──────────────
 ├──── ◉ ────
 ┃
 ├┍──━〔 𝙸 𝙽 𝙵 𝙾 〕•━──┑
 ┃╭──────────────
-┃┃ *Creador:* Enzo
-┃┃ *Tiempo Activo:* %muptime
-┃┃ *Registrados:* %rtotalreg de %totalreg usuarios
+┃🍭 *Creador:* Enzo
+┃🍭 *Tiempo Activo:* %muptime
+┃🍭 *Registrados:* %rtotalreg de %totalreg usuarios
 ┃╰────────────── 
 ├──── ◉ ────
 ┃
