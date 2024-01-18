@@ -12,7 +12,7 @@ _Ejemplo : ${usedPrefix+command} normal_
 `.trim()
 let mode = args[0].toLowerCase()
 if (!(mode in modes)) throw `
-*CURIOSITY - MATES*
+*DIABLOBOT-MD - MATES*
 🧮 Dificultades disponibles : 
   
 ${Object.keys(modes).join(' | ')}
