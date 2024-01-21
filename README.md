@@ -19,7 +19,7 @@
 ### Ejemplo 
 En caso de duda, antes de instalar DiabloBot-MD, pruebe el bot aquí
 
-<a href="https://chat.whatsapp.com/CW7xoOjwIVt4u1FX5hNWrG">
+<a href="https://api.whatsapp.com/send/?phone=61488874232&text=.estado&type=phone_number&app_absent=0G">
   <img src="https://img.shields.io/badge/DiabloBot-MD-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
