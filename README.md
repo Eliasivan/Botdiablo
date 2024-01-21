@@ -9,7 +9,7 @@
 <a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Enzito-Vase/DiabloBot-MD-?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
 
-<a href="https://www.youtube.com/@Azami_19">
+<a href="https://youtube.com/@Enzito-19?si=DIyA1gTEbwfnBxAp">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 <a href="https://instagram.com/azami.19">
@@ -20,7 +20,7 @@
 En caso de duda, antes de instalar DiabloBot-MD, pruebe el bot aquí
 
 <a href="https://chat.whatsapp.com/CW7xoOjwIVt4u1FX5hNWrG">
-  <img src="https://img.shields.io/badge/CuriosityBot-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img src="https://img.shields.io/badge/DiabloBot-MD-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 ***
