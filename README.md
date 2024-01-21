@@ -39,7 +39,7 @@ En caso de duda, antes de instalar DiabloBot-MD, pruebe el bot aquí
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/Enzito-Vase/DiabloBot-MD-/master/curiosity.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/Enzito-Vase/DiabloBot-MD-/master/DiabloBot-MD.sh | bash
 ```
 
 #### ACTIVAR EN TERMUX
