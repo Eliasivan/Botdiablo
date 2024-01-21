@@ -39,7 +39,7 @@ En caso de duda, antes de instalar DiabloBot-MD, pruebe el bot aquí
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/AzamiJs/CuriosityBot-MD/master/curiosity.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/Enzito-Vase/DiabloBot-MD-/master/curiosity.sh | bash
 ```
 
 #### ACTIVAR EN TERMUX
@@ -73,7 +73,7 @@ npm start
 #### `☂️ ACTIVA EN HEROKU ☂️`
 para usuarios del heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Azami19/CuriosityBot-MD1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Enzito-Vase/DiabloBot-MD-1)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
