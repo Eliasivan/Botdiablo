@@ -58,7 +58,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Jostin207/DiabloBot-MD && cd GokuBot-MD- && yarn install && npm install
+git clone https://github.com/Enzito-Vase/DiabloBot-MD- && cd DiabloBot-MD- && yarn install && npm install
 ```
 
 ```bash
@@ -86,7 +86,7 @@ para usuarios del heroku
 ### `OBTENER OTRO CODIGO QR`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd CuriosityBot-MD
+> cd DiabloBot-MD-
 > rm -rf sessions
 > npm start
 ```
