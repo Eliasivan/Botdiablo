@@ -9,7 +9,7 @@
 <a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Enzito-Vase/DiabloBot-MD-?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
 
-<a href="https://youtube.com/@Enzito-19?si=DIyA1gTEbwfnBxAp">
+<a href="https://youtube.com/@Enzito?si=DIyA1gTEbwfnBxAp">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 <a href="https://www.instagram.com/enzito_oficial._?igsh=MTZya2FvcngycmhwNA==">
