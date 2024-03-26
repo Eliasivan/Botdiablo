@@ -1,7 +1,7 @@
 ## 𝙳𝙸𝙰𝙱𝙻𝙾𝙱𝙾𝚃-𝙼𝙳 ✨
 
 <p align="center">
-<img src="https://telegra.ph/file/c18e300a5924865cb6e2c.jpg" alt="DiabloBot-MD" width="900"/>
+<img src="https://telegra.ph/file/49baa73f0c2f42ad7e85b.png" alt="DiabloBot-MD" width="900"/>
 </p>
 
 <a href="https://github.com/Enzito-Vase/DiabloBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/Enzito-Vase/DiabloBot-MD-?color=ff4500&style=flat-square" /></a>
